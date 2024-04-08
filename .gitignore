@@ -1,0 +1,41 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Django
+*.log
+db.sqlite3
+media/
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+*.class
+
+# Dependency directories
+env/
+venv/
+node_modules/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Testing directories
+htmlcov/
+.coverage
+.tox/
+
+# Other
+*.swp
+.DS_Store
